@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">navigator</string>
+    <string name="appscheme">giuseppesorce.com</string>
+    <string name="gs_home">gs_home</string>
+    <string name="gs_start">gs_start</string>
+</resources>
